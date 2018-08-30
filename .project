@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>leishuqing.github.io</name>
+	<name>dist</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1535616258732</id>
+			<id>1535622050161</id>
 			<name></name>
 			<type>26</type>
 			<matcher>
