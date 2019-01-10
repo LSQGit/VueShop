@@ -5,11 +5,11 @@
 
 @font-face {
   font-family: 'iconfont';  /* project id 705794 */
-  src: url('https://at.alicdn.com/t/font_705794_b9g0ke51n8.eot');
-  src: url('https://at.alicdn.com/t/font_705794_b9g0ke51n8.eot?#iefix') format('embedded-opentype'),
-  url('https://at.alicdn.com/t/font_705794_b9g0ke51n8.woff') format('woff'),
-  url('https://at.alicdn.com/t/font_705794_b9g0ke51n8.ttf') format('truetype'),
-  url('https://at.alicdn.com/t/font_705794_b9g0ke51n8.svg#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/font_705794_b9g0ke51n8.eot');
+  src: url('//at.alicdn.com/t/font_705794_b9g0ke51n8.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_705794_b9g0ke51n8.woff') format('woff'),
+  url('//at.alicdn.com/t/font_705794_b9g0ke51n8.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_705794_b9g0ke51n8.svg#iconfont') format('svg');
 }
 [class^="icon-custom-"]:before, [class*=" icon-custom-"]:before {
     font-family: 'iconfont';
@@ -76,5 +76,3 @@
 /*底部固定栏*/
 #footer { width: 100%; height: 1rem; font-size: .18rem; position: fixed; bottom: 0; left: 0; right: 0;}
 .router-link-active.router-link-exact-active { color: #09BB07 !important;}
-#footer .yd-tabbar { padding: .104rem 0; }
-#footer .yd-tabbar-icon { height: .51rem; }
